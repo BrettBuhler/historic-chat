@@ -1,0 +1,15 @@
+{
+  "short_name": "History Chat",
+  "name": "Chat to historic figures",
+  "icons": [
+    {
+      "src": "icons8-colosseum-80.png",
+      "sizes": "80x80",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

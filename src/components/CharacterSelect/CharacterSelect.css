@@ -1,0 +1,12 @@
+.character-card {
+    height: 300px;
+    width: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.character-card-container {
+    padding: 10px;
+    border: 2px solid black;
+}
